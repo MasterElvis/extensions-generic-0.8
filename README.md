@@ -7,4 +7,5 @@
 
 | Source Type | Description |          Link |
 | ---        |    ----   |         --- |
-| MangaBox      | MangaBox Generic      | [Click me!](https://thenetsky.github.io/extensions-generic-0.8/mangabox/)    |
+| MangaBox      | MangaBox Generic      | [Click me!](https://masterelvis.github.io/extensions-generic-0.8/mangabox/)    |
+| MangaPark      | MangaPark Generic      | [Click me!](https://masterelvis.github.io/extensions-generic-0.8/mangapark/)    |
