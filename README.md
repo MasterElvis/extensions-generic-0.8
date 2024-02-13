@@ -7,5 +7,5 @@
 
 | Source Type | Description |          Link |
 | ---        |    ----   |         --- |
-| MangaBox      | MangaBox Generic      | [Click me!](https://MasterElvis.github.io/extensions-generic-0.8/mangabox/)    |
+| MangaBox      | MangaBox Generic      | [Click me!](https://MasterElvis.github.io/extensions-generic-0.8/tree/gh-pages/mangabox/)    |
 | MangaPark      | MangaPark Generic      | [Click me!](https://MasterElvis.github.io/extensions-generic-0.8/mangapark/)    |
